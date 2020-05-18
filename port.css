@@ -1,0 +1,22 @@
+ul li{
+   margin-right:70px;
+}
+.nav-link
+{
+    text-transform:capitalize;
+}
+#div1
+{
+    width:100%;
+    padding:235px;
+    height:100%;
+
+}
+#div2
+{
+    margin-top:24px;
+}
+#div3
+{
+    margin-top:24px;
+}
